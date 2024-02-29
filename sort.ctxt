@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=sort
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=list
+comment2.target=void\ bubbleSort(int[])
+comment3.params=list
+comment3.target=void\ selectionSort(double[])
+comment4.params=list
+comment4.target=void\ insertionSort(int[])
+comment5.params=list
+comment5.target=void\ mergeSort(int[])
+comment6.params=list1\ list2\ temp
+comment6.target=void\ merge(int[],\ int[],\ int[])
+comment7.params=list
+comment7.target=void\ quickSort(int[])
+comment8.params=list\ first\ last
+comment8.target=void\ quickSort(int[],\ int,\ int)
+comment9.params=list\ first\ last
+comment9.target=int\ partition(int[],\ int,\ int)
+comment9.text=Partition\ the\ array\ list[first..last]
+numComments=10
